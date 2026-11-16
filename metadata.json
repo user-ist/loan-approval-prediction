@@ -1,0 +1,6 @@
+{
+  "name": "LoanWise Affordability Workbench",
+  "description": "Decision support & underwriting workbench for loan affordability exploration, sensitivity simulation, and model prediction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
